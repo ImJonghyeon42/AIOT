@@ -1,9 +1,3 @@
-
----
-
-## 📈 Matplotlib 소개 (마크다운)
-
-```markdown
 # 📈 Matplotlib란?
 
 **Matplotlib**는 파이썬에서 데이터를 시각화할 수 있도록 도와주는 라이브러리로, 가장 기본적인 플롯 도구입니다.
@@ -47,4 +41,3 @@ plt.title('간단한 그래프')
 plt.legend()
 plt.grid(True)
 plt.show()
-
